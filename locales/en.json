@@ -8,40 +8,43 @@
     "projects": "Projects"
   },
   "personalInfo": {
-    "name": "Iván",
-    "lastName": "Greve",
+    "name": "Abdul",
+    "lastName": "Karim",
     "subHeadingText": [
-      "Software Enginneer",
+      "Software Engineer",
       "Full Stack Developer",
       "Code enthusiast!"
     ],
-    "city": "Buenos Aires, Argentina",
-    "phoneNumber": "+54 - 6766-9851",
-    "email": "ivangreve@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/ivan-greve/",
-    "github": "https://github.com/ivangreve/",
+    "city": "Chittagong, Bangladesh",
+    "phoneNumber": "+8801781463456",
+    "email": "abdulkarim34.fk@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/abdul-karim-b05200150/",
+    "github": "https://github.com/iamabdulkarim",
     "myDescription": "Passionate web developer, making useful application using the latest technologies!"
   },
   "educationDegrees": {
     "title": "Education 📕",
     "degrees": [
       {
-        "collage": "University of La Matanza",
-        "name": "Engineer Degree",
+        "collage": "Hazera tuju Degree Collage",
+        "name": "Science",
         "itemList": ["Computer Science"],
-        "startEndDate": "March 2013 - December 2018"
+        "startEndDate": "Jan 2011 - December 2013"
       },
       {
-        "collage": "University of La Matanza",
-        "name": "Software Engineering Technician",
+        "collage": "Premier University",
+        "name": " Bachelor of Computer Science & Engineering ",
         "itemList": ["Computer Science"],
-        "startEndDate": "March 2013 - December 2016"
+        "startEndDate": "March 2016 - April 2020"
       },
       {
-        "collage": "Instituto Madero",
-        "name": "Electronic technician",
-        "itemList": ["Electronic"],
-        "startEndDate": "March 2007 - December 2012"
+        "collage": "Udemy",
+        "name": [
+          "JS Essentials with Vuex and Vue Router"
+          
+        ],
+        "itemList": ["Web development"],
+        "startEndDate": "March 2017 - current 2021"
       }
     ]
   },
@@ -49,54 +52,36 @@
     "title": "Work Expecience 🔨",
     "works": [
       {
-        "position": "Software Engineer / FullStack Developer",
-        "companie": "Axum - Smart Solutions",
+        "position": "FullStack Developer",
+        "companie": "Asil - Smart Solutions",
         "responsabilities": [
-          "Responsible for designing, developing and maintaining a group of applications used in the retail industry by multinational companies as Pepsico, Unilever, Quilmes, etc.",
-          "Web Team leader, I take technical decisions about which technologies use in each project and how the team will works.",
-          "Backend Developer: .NET Core | .NET Framework | NodeJs | MSSQL | PostgreSQL | MongoDB.",
-          "Frontend Developer: VueJs | ReactJs | Javascript | JQuery.",
-          "Desktop Applications: .NET Windows Form Applications."
+          "Responsible for designing, developing and maintaining a group of application.",
+          "Backend Developer: Php | Laravel | MySQL ",
+          "Frontend Developer: VueJs | Javascript | JQuery."
         ],
-        "startEndDate": "November 2017 - Present"
-      },
-      {
-        "position": "Technical Administrator",
-        "companie": "Metalurgica Vezeta",
-        "responsabilities": [
-          "Responsible for web ecommerce designing and maintaining.",
-          "Graphic design (Adobe Photoshop and Adobe Illustrator).",
-          "Technical support.",
-          "Improve business processes."
-        ],
-        "startEndDate": "March 2014 - October 2017"
+        "startEndDate": "july 2020 - Present"
       }
+      
     ]
   },
   "skills": {
     "title": "Skills 🎯",
     "iconsTitle": "Programming Languages & Tools",
     "devIcons": [
-      "devicon-csharp-plain",
-      "devicon-javascript-plain",
-      "devicon-html5-plain-wordmark",
-      "devicon-css3-plain-wordmark",
-      "devicon-git-plain",
-      "devicon-nodejs-plain",
-      "devicon-bootstrap-plain",
-      "devicon-github-original",
+      "devicon-cplusplus-plain colored",
+      "devicon-javascript-plain colored",
+      "devicon-html5-plain-wordmark colored",
+      "devicon-css3-plain-wordmark colored",
+      "devicon-git-plain-wordmark colored",
+      "devicon-nodejs-plain-wordmark colored",
+      "devicon-bootstrap-plain-wordmark colored",
+      "devicon-github-original-wordmark colored",
       "devicon-bitbucket-original-wordmark",
-      "devicon-dot-net-original-wordmark",
-      "devicon-jquery-plain-wordmark",
-      "devicon-linux-plain",
-      "devicon-windows8-original",
-      "devicon-illustrator-plain",
-      "devicon-photoshop-plain",
-      "devicon-react-original",
-      "devicon-visualstudio-plain",
-      "devicon-dot-net-plain",
-      "devicon-vuejs-plain",
-      "devicon-postgresql-plain"
+      "devicon-laravel-plain-wordmark colored",
+      "devicon-jquery-plain-wordmark colored",
+      "devicon-mysql-plain-wordmark colored",
+      "devicon-visualstudio-plain colored",
+      "devicon-vuejs-plain-wordmark colored"
     ],
     "workflow": "Workflow",
     "itemList": [
@@ -117,28 +102,28 @@
     "title": "Personal Projects 🦾🧠",
     "projectsInfo": [
       {
-        "name": "Kelawar",
-        "description": "Kelawar is a Big Data + IoT project. Which through masive recollections of data, we provide useful information about the clients behavior. ",
-        "image": "/images/kelawar.jpg",
-        "siteUrl": "https://kelawar.com/"
+        "name": "Event",
+        "description": "Event is build for only show event name, place & time. ",
+        "image": "/images/vue-3-events.onrender.com.png",
+        "siteUrl": "https://vue-3-events.onrender.com/"
       },
       {
-        "name": "Docuisy",
-        "description": "Docuisy is a Wiki, generator based on .md files",
-        "image": "/images/docuisy.png",
-        "siteUrl": "https://github.com/ivangreve/docuisy"
+        "name": "Food Website",
+        "description": "Food website with HTML,CSS & js",
+        "image": "/images/food.jpg",
+        "siteUrl": "https://food-website.onrender.com/"
       },
       {
-        "name": "DriveBox",
-        "description": "DriveBox is a powerful power-up for google drive service.",
-        "image": "/images/drivebox.jpg",
-        "siteUrl": "https://www.kelawar.com/"
+        "name": "Video Project with Vue ",
+        "description": "Udemy course:Vue JS Essentials with Vuex and Vue Router",
+        "image": "/images/video-project.png",
+        "siteUrl": "#"
       },
       {
-        "name": "Resume Nuxt Template",
-        "description": "I made a simple and customizable template with nuxt and multilanguage support (i18n)",
-        "image": "/images/resumenuxt.jpg",
-        "siteUrl": "https://github.com/ivangreve/nuxt-resume"
+        "name": "Resume Vue With Nuxt",
+        "description": "I made this simple and customizable Portfolio with Vue, nuxt & multilanguage support",
+        "image": "/images/resumenuxt.png",
+        "siteUrl": "https://github.com/iamabdulkarim/nuxt-resume"
       }
     ]
   }

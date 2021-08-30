@@ -1,144 +1,129 @@
 {
   "links": {
-    "about": "Sobre mi",
-    "education": "Educación",
-    "experience": "Experiencia",
-    "skills": "Habilidades",
-    "interests": "Intereses",
-    "projects": "Proyectos"
+    "about": "About",
+    "education": "Education",
+    "experience": "Experience",
+    "skills": "Skills",
+    "interests": "Interests",
+    "projects": "Projects"
   },
   "personalInfo": {
-    "name": "Iván",
-    "lastName": "Greve",
+    "name": "Abdul",
+    "lastName": "Karim",
     "subHeadingText": [
-      "Software Enginneer",
+      "Software Engineer",
       "Full Stack Developer",
-      "Amante del Codigo!"
+      "Code enthusiast!"
     ],
-    "city": "Buenos Aires, Argentina",
-    "phoneNumber": "+54 - 6766-9851",
-    "email": "ivangreve@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/ivan-greve/",
-    "github": "https://github.com/ivangreve/",
-    "myDescription": "Desarrollador web apasionado, desarrollando aplicaciones útiles siempre utilizando las últimas tecnologías!"
+    "city": "Chittagong, Bangladesh",
+    "phoneNumber": "+8801781463456",
+    "email": "abdulkarim34.fk@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/abdul-karim-b05200150/",
+    "github": "https://github.com/iamabdulkarim",
+    "myDescription": "Passionate web developer, making useful application using the latest technologies!"
   },
   "educationDegrees": {
-    "title": "Educación 📕",
+    "title": "Education 📕",
     "degrees": [
       {
-        "collage": "Universidad de La Matanza",
-        "name": "Ingeniero en Informática",
-        "itemList": ["Ciencias de la Computación"],
-        "startEndDate": "Marzo 2013 - Diciembre 2018"
+        "collage": "Hazera tuju Degree Collage",
+        "name": "Science",
+        "itemList": ["Computer Science"],
+        "startEndDate": "Jan 2011 - December 2013"
       },
       {
-        "collage": "Universidad de La Matanza",
-        "name": "Técnico universitario en Desarrollo de Software",
-        "itemList": ["Ciencias de la Computación"],
-        "startEndDate": "Marzo 2013 - Diciembre 2016"
+        "collage": "Premier University",
+        "name": " Bachelor of Computer Science & Engineering ",
+        "itemList": ["Computer Science"],
+        "startEndDate": "March 2016 - April 2020"
       },
       {
-        "collage": "Instituto Madero",
-        "name": "Técnico en electrónica - Telecomunicaciones",
-        "itemList": ["Electrónica"],
-        "startEndDate": "Marzo 2007 - Diciembre 2012"
+        "collage": "Udemy",
+        "name": [
+          "JS Essentials with Vuex and Vue Router"
+          
+        ],
+        "itemList": ["Web development"],
+        "startEndDate": "March 2017 - current 2021"
       }
     ]
   },
   "workExperiences": {
-    "title": "Experiencia Laboral 🔨",
+    "title": "Work Expecience 🔨",
     "works": [
       {
-        "position": "Ingeniero en Informática / Desarrollador FullStack",
-        "companie": "Axum - Soluciones Inteligentes",
+        "position": "FullStack Developer",
+        "companie": "Asil - Smart Solutions",
         "responsabilities": [
-          "Responsable de diseñar, codificar y mantener grupos de aplicaciones usadas en el mundo del retail por empresas multinacionales como Pepsico, Unilever, Quilmes, etc.",
-          "Lider del equipo web, estoy a cargo de la toma de decisiones técnicas y acerca de como el equipo va a trabajar en los diferentes proyectos.",
-          "Desarrollador Backend: .NET Core | .NET Framework | NodeJs | MSSQL | PostgreSQL | MongoDB.",
-          "Desarrollador Frontend: VueJs | ReactJs | Javascript | JQuery.",
-          "Aplicaciones de Escritorio: .NET Windows Form Applications."
+          "Responsible for designing, developing and maintaining a group of application.",
+          "Backend Developer: Php | Laravel | MySQL ",
+          "Frontend Developer: VueJs | Javascript | JQuery."
         ],
-        "startEndDate": "Noviembre 2017 - Presente"
-      },
-      {
-        "position": "Administrador Técnico",
-        "companie": "Metalurgica Vezeta",
-        "responsabilities": [
-          "Responsable del diseño y mantenimiento del ecommerce.",
-          "Diseño Gráfico (Adobe Photoshop and Adobe Illustrator).",
-          "Soporte Técnico.",
-          "Mejora de los procesos de negocio."
-        ],
-        "startEndDate": "Marzo 2014 - Octubre 2017"
+        "startEndDate": "july 2020 - Present"
       }
+      
     ]
   },
   "skills": {
-    "title": "Habilidades 🎯",
-    "iconsTitle": "Lenguajes de Programación & Herramientas",
+    "title": "Skills 🎯",
+    "iconsTitle": "Programming Languages & Tools",
     "devIcons": [
-      "devicon-csharp-plain",
-      "devicon-javascript-plain",
-      "devicon-html5-plain-wordmark",
-      "devicon-css3-plain-wordmark",
-      "devicon-git-plain",
-      "devicon-nodejs-plain",
-      "devicon-bootstrap-plain",
-      "devicon-github-original",
+      "devicon-cplusplus-plain colored",
+      "devicon-javascript-plain colored",
+      "devicon-html5-plain-wordmark colored",
+      "devicon-css3-plain-wordmark colored",
+      "devicon-git-plain-wordmark colored",
+      "devicon-nodejs-plain-wordmark colored",
+      "devicon-bootstrap-plain-wordmark colored",
+      "devicon-github-original-wordmark colored",
       "devicon-bitbucket-original-wordmark",
-      "devicon-dot-net-original-wordmark",
-      "devicon-jquery-plain-wordmark",
-      "devicon-linux-plain",
-      "devicon-windows8-original",
-      "devicon-illustrator-plain",
-      "devicon-photoshop-plain",
-      "devicon-react-original",
-      "devicon-visualstudio-plain",
-      "devicon-dot-net-plain",
-      "devicon-vuejs-plain",
-      "devicon-postgresql-plain"
+      "devicon-laravel-plain-wordmark colored",
+      "devicon-jquery-plain-wordmark colored",
+      "devicon-mysql-plain-wordmark colored",
+      "devicon-visualstudio-plain colored",
+      "devicon-vuejs-plain-wordmark colored"
     ],
     "workflow": "Workflow",
     "itemList": [
-      "Diseño Responsive & UX",
+      "Responsive Design & UX",
       "Cross Browser Testing & Debugging",
-      "Contrucción de REST API",
-      "Desarrollo Ágil & Scrum",
-      "Trabajo en equipo",
-      "Patrones de diseño"
+      "REST API building",
+      "Agile Development & Scrum",
+      "Team working",
+      "Design Patterns"
     ]
   },
   "interests": {
     "title": "Hobbies 😄",
-    "firstBlock": "Además de ser desarrollador web, disfruto la gran parte de mi tiempo escuchando y tocando música. Me encanta cantar y tocar el piano en mis ratos libres!. 🎹🎵",
-    "secondBlock": "También le dedico una gran parte de mi tiempo libre a explorar las última tecnologias y avances en el mundo del backend/frontend, y programo en mis proyectos personales! 🙌👨‍💻"
+    "firstBlock": "Apart from being a web developer, I enjoy most of my time listening and playing music. I love playing piano and singing in my spare time!. 🎹🎵",
+    "secondBlock": "I spend a large amount of my free time exploring the latest technolgy advancements in the frontend and backend web technology development world and coding in my personal projects! 🙌👨‍💻"
   },
   "projects": {
-    "title": "Proyectos Personales 🦾🧠",
+    "title": "Personal Projects 🦾🧠",
     "projectsInfo": [
       {
-        "name": "Kelawar",
-        "description": "Kelawar es un proyecto Big Data + IoT. El cual mediante mecanismos de recolección masiva de datos, brindamos información útil acerca del comportamiento de los clientes para mejorar la toma de decisiones.",
-        "image": "/images/kelawar.jpg",
-        "siteUrl": "https://kelawar.com/"
+        "name": "Event",
+        "description": "Event is build for only show event name, place & time. ",
+        "image": "/images/vue-3-events.onrender.com.png",
+        "siteUrl": "https://vue-3-events.onrender.com/"
       },
       {
-        "name": "Docuisy",
-        "description": "Docuisy es un creador de Wikis basadas en archivos .md",
-        "image": "/images/docuisy.png",
-        "siteUrl": "https://github.com/ivangreve/docuisy"
+        "name": "Food Website",
+        "description": "Food website with HTML,CSS & js",
+        "image": "/images/food.jpg",
+        "siteUrl": "https://food-website.onrender.com/"
       },
       {
-        "name": "DriveBox",
-        "description": "DriveBox es un poderoso power-up para los servicios de Google Drive.",
-        "image": "/images/drivebox.jpg",
-        "siteUrl": "https://www.kelawar.com/"
+        "name": "Video Project with Vue ",
+        "description": "Udemy course:Vue JS Essentials with Vuex and Vue Router",
+        "image": "/images/video-project.png",
+        "siteUrl": "#"
       },
       {
-        "name": "Resume Nuxt Template",
-        "description": "Simple y customizable template hecho con Nuxt y con soporte multilenguaje (i18n)",
-        "image": "/images/resumenuxt.jpg",
-        "siteUrl": "https://github.com/ivangreve/nuxt-resume"
+        "name": "Resume Vue With Nuxt",
+        "description": "I made this simple and customizable Portfolio with Vue, nuxt & multilanguage support",
+        "image": "/images/resumenuxt.png",
+        "siteUrl": "https://github.com/iamabdulkarim/nuxt-resume"
       }
     ]
   }

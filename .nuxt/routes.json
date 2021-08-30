@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index___es",
+    "path": "/es",
+    "component": "G:\\\\KM palyer\\\\New folder\\\\nuxt-resume\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_199e244f"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "G:\\\\KM palyer\\\\New folder\\\\nuxt-resume\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_199e244f"
+  }
+]

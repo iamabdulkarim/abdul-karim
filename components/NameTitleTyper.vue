@@ -35,5 +35,5 @@
 <script>
 export default {
   props:["name", "lastName"]
-}
+};
 </script>

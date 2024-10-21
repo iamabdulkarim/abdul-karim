@@ -1,7 +1,7 @@
 export default {
   target: 'static', 
   generate: {
-    dir: 'dist', 
+    dir: '',
   },
   head: {
     title: process.env.npm_package_name || "",

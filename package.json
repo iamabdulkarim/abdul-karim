@@ -6,7 +6,7 @@
     "node": "20.x"
   },
   "scripts": {
-    "build": "nuxt build",
+    "build": "nuxt generate",
     "dev": "nuxt",
     "start": "nuxt start",
     "generate": "nuxt generate"
